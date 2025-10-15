@@ -27,4 +27,5 @@ Explore the following key areas in this codebase:
 
 On top of that, this codebase is fully cross-platform—written on Windows but ready to run on Linux and Mac thanks to the versatile support of the latest .NET. 
 By working through this project, you’ll develop a solid understanding of Selenium fundamentals — from setup and design patterns to advanced automation techniques and reporting.
+
 Target audience: QA, BA, Devs.
